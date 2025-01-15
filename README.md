@@ -1,2 +1,2 @@
 # TCC
-End economy course paper
+This monograph project aims to analyze the historical series of demand for air travel over time and make a comparison between the pre- and post-pandemic periods through the estimation of an ARIMA model. The focus will be on observing the differences between the models in both periods, using data provided by ANAC (National Civil Aviation Agency). Additionally, the data will be analyzed to understand the changes and patterns that can be identified.
